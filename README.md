@@ -1,2 +1,2 @@
 # GNTC-TV
-HLS Application for Grace and Truth Church
+은혜와 진리교회를 위한 HLS 어플리케이션
